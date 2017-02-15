@@ -8,3 +8,6 @@ body {
     list-style-image: url(moon.png);
     font-size: 22pt;
 }
+li {
+    text-align: left;
+}
