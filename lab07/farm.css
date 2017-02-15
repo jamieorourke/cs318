@@ -1,0 +1,18 @@
+body {
+    background-image: url(farmphotooo.jpg);
+    background-repeat: no-repeat;
+    margin-top: 540px;
+    background-color: bisque;
+    text-align: right;
+    font-size: 40pt;
+    color: red;
+}
+p {
+    font-size: 25pt;
+    color:darkgoldenrod;
+}
+div {
+    background-image: url(cow2.png);
+    background-repeat: no-repeat;
+   height: 500pt;
+}
