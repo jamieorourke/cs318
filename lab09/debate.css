@@ -1,0 +1,49 @@
+body {
+    box-sizing: border-box;
+    
+   
+}
+
+.blurb {
+    width: 90%;
+    box-shadow: 3px,3px,5px;
+    min-height: 202px;
+    min-width: 400px;
+    font-family: "Bahiana", cursive;
+    border: 1px;
+    border-style: solid;  
+    border-radius: 30px;
+    margin: 0px;
+    font-size: 28px;
+    box-shadow: 0 8px 30px
+    
+    
+}
+
+.left {
+   background-color: aquamarine;
+ background-image: url(kanye.jpg);
+    background-size:auto 200px;
+    background-repeat: no-repeat;
+   padding-left: 350px;
+    
+    
+}
+.right {
+    background-color: cadetblue;
+    margin-left: auto;
+    background-image: url(taylor.png);
+    background-size: auto 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 200px;
+}
+
+h1{
+    background-image: linear-gradient(to right, aquamarine,cadetblue);
+    text-align: center;
+    padding: 10px;
+ box-shadow: inset 0 -5px 5px white;
+    margin-top: -10px;
+    
+}

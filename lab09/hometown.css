@@ -1,0 +1,39 @@
+header {
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    height: 50px;
+    font-size: 25pt;
+    
+}
+body {
+    margin: 65px;
+    background-image: linear-gradient(to top, purple, white);
+    background-repeat: no-repeat;
+    height: 800px;
+
+    
+    
+}
+nav {
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    height: 556px;
+    box-shadow: 10px 10px 70px;
+   
+    
+   
+}
+footer {
+    text-align: right;
+}
+img {
+    width: 500px;
+    height: 200px;
+    
+}
