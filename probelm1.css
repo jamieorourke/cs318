@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+.red{
+    background-color: red;
+    width: 50px;
+    
+}
+
+.orange{
+    background-color: orange;
+     width: 50px;
+}
+
+.yellow{
+    background-color: yellow;
+     width: 50px;   
+}
+
+.green{
+    background-color: green;
+    width: 50px;
+}
+
+.blue{
+    background-color: blue;
+        width: 50px;
+}
+.circle {
+	width: 100px;
+	height: 100px;
+	background: white;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+.square {
+	width: 100px;
+	height: 100px;
+    margin-bottom: 10px;
+	background: white;
+}
+
+.one {
+width: 100px;
+	height: 100px;
+    margin-bottom: 10px;
+	background: black;
+    border-style: solid;
+    border-width: 15pt;
+    border-color: white gray gray;
+    
+    }
+.two{
+    width: 100px;
+	height: 100px;
+    margin-bottom: 10px;
+	background: black;
+    border-style: solid;
+    border-width: 15pt;
+    border-color: white gray white;
+}
+.three{
+    width: 100px;
+	height: 100px;
+    margin-bottom: 10px;
+   background: black;
+    border-style: solid;
+    border-width: 15pt;
+    border-color: white white white gray;
+}
+.four{
+width: 100px;
+	height: 100px;
+    margin-bottom: 10px;
+	background: black;
+    background: black;
+    border-style: solid;
+    border-width: 15pt;
+    border-color: white white white;
